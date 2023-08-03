@@ -4,7 +4,6 @@
 
 using namespace std;
 
-// Complexidade: O((B-A) * log B)
 int main()
 {
   int S, A, B;
